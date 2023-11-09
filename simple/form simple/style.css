@@ -1,0 +1,56 @@
+body{
+    color: white;
+    width: 100vw;
+    height: 100vh;
+    background-color: #1c1212;
+}
+form{
+    border: 2px solid red;
+    width: 80%;
+    height: 80%;
+    margin: 0 auto;
+
+}
+select{
+    width: 80%;
+}
+#submit{
+    background-color: green;
+    margin: 2px 10%;
+    width: 80%;
+
+}
+label{
+   text-align:center;
+   padding: 6px auto;
+}
+fieldset{
+    border: none;
+}
+
+input{
+    display: block;
+    width: 80%;
+    margin: 6px auto;
+}
+select,textarea{
+    display: block;
+    margin: 4px auto;
+
+}
+fieldset input{
+    display: unset;
+    width: unset;
+}
+
+#title{
+    text-align: center;
+    margin: 0 auto;
+
+}
+#discription{
+    text-align: center;
+    font-size: 1.2em;
+    margin: 0 auto;
+    
+}
