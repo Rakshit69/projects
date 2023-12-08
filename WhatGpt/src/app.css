@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    
+     margin: 0px opx;
+    padding:0px 0px;
+    scroll-behavior: smooth;
+}
+:root{
+    --color-bg:
+}
+body{
+    background-color: var(--color-bg);
+}
