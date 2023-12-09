@@ -1,4 +1,5 @@
 import React from 'react'
+
 // import Article from './components/article/Article'
 // import Brand from './components/brand/Brand'
 // import Cta from './components/cta/Cta'
@@ -11,7 +12,7 @@ import "./app.css"
 const App = () => {
   return (
     <div className='App'>
-      <div className="Gradient__bg">
+      <div className="gradient__bg">
        < Navbar/>
        < Header/>
       </div>
