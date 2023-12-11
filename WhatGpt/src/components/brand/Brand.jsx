@@ -1,8 +1,23 @@
 import React from 'react'
+import { google,slack,atlassian , shopify } from './import'
 import './brand.css'
 const Brand = () => {
   return (
-    <div>Brand</div>
+    <div className='gpt3__brand section-padding'>
+      <div>
+        <img src={google} alt="google" />
+      </div>
+      <div>
+        <img src={slack} alt="slack" />
+      </div>
+      <div>
+        <img src={atlassian} alt="atlassian" />
+      </div>
+      <div>
+        <img src={shopify} alt="shopify" />
+      </div>
+
+    </div>
   )
 }
 
