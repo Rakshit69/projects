@@ -1,0 +1,26 @@
+
+.buttons{
+    width:80px;
+    height: 30px;
+    border: 3px solid;
+    border-radius: 12px;
+    background-color: #363333;
+    color:white;
+    cursor: pointer;
+    font-family: consolas,monospace;
+
+    
+}
+#display{
+    font-size: 75px;
+    color:rgb(8, 168, 8);
+    font-family: consolas,monospace;
+    
+}
+
+#display-container{
+text-align: center;
+border:3px solid;
+border-radius: 25px;
+background-color: #222222;
+}
